@@ -1,39 +1,37 @@
-# 🌟 Welcome to My GitHub "README.md"!
+# 🌟 Welcome to My GitHub!
 
-Hello! I'm a passionate developer working with Python, learning C#, and dabbling in HTML and CSS. Below, you’ll find details about the technologies I use and the personal projects I'm working on.
+Hi there! I'm a passionate developer working with **Python**, **HTML**, and **CSS**. Below, you'll find a detailed overview of the technologies I use, my skills, and the exciting projects I'm working on.
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 Skills
 
-- **Python**:  
-  My main programming language, used for automation, data analysis, and building applications.
+### Programming Languages:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) **Python**  
+  My main programming language for automation, data analysis, and building applications.
 
-- **HTML & CSS**:  
-  Basic web development skills for creating and styling websites.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) **HTML**  
+  Proficient in building structured web pages with semantic HTML.
 
-- **C#**:  
-  Currently learning, with a focus on game development and application creation.
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) **CSS**  
+  Skilled in styling websites and creating responsive layouts.
 
 ---
 
 ## 🚧 Current Projects
 
-Here’s what I’m working on right now:
+Here's what I'm currently working on:
+
+- **Website for a Tabletop RPG**:  
+  Developing a website to showcase and support a **Tabletop RPG** project, with content, rules, and community features.
 
 - **Python Projects**:  
   Developing scripts to automate tasks and explore new ideas.
-
-- **C# Learning**:  
-  Working on projects to gain hands-on experience, including game development with Unity.
-
-- **Web Development**:  
-  Experimenting with simple websites using HTML and CSS.
 
 ---
 
 ## 🌱 Future Plans
 
-- Continue improving my C# skills, especially in game development.
-- Expand my knowledge of web development by integrating JavaScript.
-- Work on collaborative projects to sharpen my skills.
+- Continue improving my skills in **Python** and explore new libraries and frameworks.
+- Experiment with JavaScript to expand my web development capabilities.
+- Work on more complex projects and collaborate with others to sharpen my skills.
